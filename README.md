@@ -1,19 +1,17 @@
-# Container-Apps---MicroTodoUI
+# Todo-Microservices-Container-Apps
+
 Container Apps - MicroTodoUI with Terraform IaC
 
-```markdown
-# 🚀 Distributed To-Do Microservices Platform (Azure Container Apps)
+#### 🚀 Distributed To-Do Microservices Platform (Azure Container Apps)
 
 An enterprise-grade, event-driven microservices platform built with Python (FastAPI), React, and Azure Container Apps. Designed with strict domain isolation, multi-stage container optimization, and declarative Infrastructure as Code (IaC) via Terraform.
 
----
 
 ## 🏗️ Architecture Overview
 
 
-```
 
-```
+```markdown
                   +-----------------------------+
                   |   React Web Frontend (UI)   |
                   |    (Nginx / Port 80)        |
@@ -38,8 +36,6 @@ An enterprise-grade, event-driven microservices platform built with Python (Fast
                          |   Azure SQL Database PaaS    |
                          |          ("tododb")          |
                          +------------------------------+
-
-```
 
 ```
 
