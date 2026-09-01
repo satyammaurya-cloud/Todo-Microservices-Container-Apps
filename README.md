@@ -8,6 +8,8 @@ An enterprise-grade, event-driven microservices platform built with Python (Fast
 
 
 ## 🏗️ Architecture Overview
+<img width="1401" height="761" alt="AzureServices" src="https://github.com/user-attachments/assets/ec5e9688-e287-4891-a263-cc9dcf0c80fc" />
+
 
 
 
